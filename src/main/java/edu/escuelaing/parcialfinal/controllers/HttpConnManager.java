@@ -13,10 +13,10 @@ import edu.escuelaing.parcialfinal.model.Client;
 
 @RestController
 @RequestMapping("/api")
-public class IndexController {
+public class HttpConnManager {
     private final Client client;
 
-    public IndexController() {
+    public HttpConnManager() {
         this.client = new Client();
     }
 
