@@ -67,23 +67,15 @@ mvn -e exec:java -Dexec.mainClass=parcial.arsw.parcial1.model.Client
 
 ## Built With
 
-### Server Side
+### Server 
 
 - [Maven](https://maven.apache.org/)
 - [Java](https://www.oracle.com/java/technologies/)
 - [Spring](https://spring.io/)
-
-### Client Side
-
 - [HTML 5](https://html.spec.whatwg.org/multipage/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Versioning
-
-Uses [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
 - **Hann Jang** - *Initial work* - [Hajaku12](https://github.com/Hajaku12)
-
-This guide should help you set up and deploy the project locally or on a live system. If you have any questions or need further assistance, feel free to ask!
